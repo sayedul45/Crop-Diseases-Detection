@@ -18,19 +18,42 @@ It also provides **treatment recommendations** using **FAISS vector database** a
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/crop_disease_detection.git
+git clone https://github.com/sayedul45/crop_disease_detection.git
 cd crop_disease_detection
-
+```
 ---
 
 ## Set Up Backend
+```sh
 cd backend
 pip install -r requirements.txt
 python app.py
-
+```
 ---
 
 ## Set Up Frontend
+```sh
 cd frontend
 pip install -r requirements.txt
 python app.py
+```
+
+
+## 🐳 Installation & Setup (Using Docker)
+### 1️⃣ Build and Start the Containers
+```sh
+docker-compose up --build
+```
+✔ This will:
+
+Start backend at http://localhost:5000
+Start frontend at http://localhost:7860
+
+### 2️⃣ Access the App
+🌍 Backend API: http://localhost:5000/predict
+🌍 Frontend UI: http://localhost:7860
+
+### 3️⃣ Stop the Containers
+```sh
+docker-compose down
+```
