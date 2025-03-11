@@ -1,0 +1,35 @@
+
+---
+
+## ✅ **`.gitignore` (Ignore Unnecessary Files)**
+```gitignore
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore model weights (if too large)
+models/best.pt
+models/vit_best/
+vector_db/disease_vectordb/
+
+# Ignore virtual environments
+venv/
+.env
+*.venv
+
+# Ignore logs and temporary files
+logs/
+temp/
+*.log
+*.csv
+
+# Ignore environment files
+*.env
+.DS_Store
+*.sqlite3
+
+# Ignore Docker build files
+docker/backend/__pycache__/
+docker/frontend/__pycache__/

@@ -1,0 +1,121 @@
+[
+    {
+        "disease": "Apple Scab",
+        "symptoms": "Dark brown to black spots on leaves and fruit.",
+        "treatment": "Apply fungicides like myclobutanil or captan at early leaf stages.",
+        "best_practices": "Plant resistant apple varieties, prune for better air circulation, remove fallen leaves.",
+        "source": "Cornell University Plant Disease Clinic"
+    },
+    {
+        "disease": "Potato Late Blight",
+        "symptoms": "Dark lesions on leaves, rapid decay of tubers, white fungal growth under humid conditions.",
+        "treatment": "Use fungicides containing chlorothalonil or mancozeb.",
+        "best_practices": "Avoid overhead irrigation, rotate crops every 3 years.",
+        "source": "University of Minnesota Extension"
+    },
+    {
+        "disease": "Tomato Early Blight",
+        "symptoms": "Small, dark brown spots with concentric rings on lower leaves.",
+        "treatment": "Apply copper-based fungicides at first signs of disease.",
+        "best_practices": "Remove infected leaves, ensure good spacing for airflow.",
+        "source": "American Phytopathological Society"
+    },
+    {
+        "disease": "Tomato Late Blight",
+        "symptoms": "Large, dark green blotches on leaves that rapidly turn brown.",
+        "treatment": "Use fungicides containing chlorothalonil or copper hydroxide.",
+        "best_practices": "Avoid overhead watering, use resistant varieties.",
+        "source": "Michigan State University Extension"
+    },
+    {
+        "disease": "Grape Powdery Mildew",
+        "symptoms": "White, powdery spots on leaves and fruit, causing leaf distortion.",
+        "treatment": "Apply sulfur or neem oil sprays regularly.",
+        "best_practices": "Improve air circulation, remove infected leaves.",
+        "source": "Ohio State University Extension"
+    },
+    {
+        "disease": "Corn Gray Leaf Spot",
+        "symptoms": "Long, rectangular, grayish-brown lesions on leaves.",
+        "treatment": "Use fungicides containing strobilurin at early infection stage.",
+        "best_practices": "Rotate crops, remove infected crop residues.",
+        "source": "University of Nebraska-Lincoln Extension"
+    },
+    {
+        "disease": "Soybean Rust",
+        "symptoms": "Small, reddish-brown pustules on underside of leaves.",
+        "treatment": "Apply triazole or strobilurin fungicides every 7-10 days.",
+        "best_practices": "Plant resistant varieties, use proper spacing.",
+        "source": "Iowa State University Extension"
+    },
+    {
+        "disease": "Wheat Leaf Rust",
+        "symptoms": "Small, orange pustules on leaves leading to defoliation.",
+        "treatment": "Use triazole-based fungicides when symptoms appear.",
+        "best_practices": "Rotate wheat with non-host crops, remove crop debris.",
+        "source": "University of Illinois Extension"
+    },
+    {
+        "disease": "Cucumber Downy Mildew",
+        "symptoms": "Yellow patches on upper leaf surfaces, black mold underneath.",
+        "treatment": "Use fungicides like chlorothalonil or mancozeb.",
+        "best_practices": "Ensure good air circulation, avoid overhead watering.",
+        "source": "Cornell University Vegetable Program"
+    },
+    {
+        "disease": "Strawberry Leaf Spot",
+        "symptoms": "Purple spots on leaves that expand and turn brown.",
+        "treatment": "Apply captan-based fungicides weekly.",
+        "best_practices": "Water at the base, remove infected leaves.",
+        "source": "University of California Small Farms Program"
+    },
+    {
+        "disease": "Rice Blast",
+        "symptoms": "Elongated, grayish lesions on leaves, leading to leaf death.",
+        "treatment": "Use azoxystrobin or tricyclazole fungicides.",
+        "best_practices": "Avoid high nitrogen fertilization, use resistant varieties.",
+        "source": "International Rice Research Institute"
+    },
+    {
+        "disease": "Peach Leaf Curl",
+        "symptoms": "Leaves curl, thicken, and turn red or purple.",
+        "treatment": "Apply copper-based fungicides in dormant season.",
+        "best_practices": "Prune affected branches, plant resistant varieties.",
+        "source": "Clemson Cooperative Extension"
+    },
+    {
+        "disease": "Cabbage Black Rot",
+        "symptoms": "Yellow V-shaped lesions on leaf edges, black veins.",
+        "treatment": "Use copper-based bactericides every 7 days.",
+        "best_practices": "Rotate crops, avoid water splashing on leaves.",
+        "source": "North Carolina State University Plant Pathology"
+    },
+    {
+        "disease": "Bell Pepper Bacterial Spot",
+        "symptoms": "Small, dark lesions with yellow halos on leaves and fruit.",
+        "treatment": "Use copper-based sprays and streptomycin.",
+        "best_practices": "Space plants properly, avoid overhead watering.",
+        "source": "University of Florida IFAS Extension"
+    },
+    {
+        "disease": "Mango Anthracnose",
+        "symptoms": "Dark, sunken spots on fruit, flowers, and leaves.",
+        "treatment": "Use azoxystrobin or mancozeb fungicides.",
+        "best_practices": "Harvest fruits early, avoid humid storage conditions.",
+        "source": "Bangladesh Agricultural Research Institute"
+    },
+    {
+        "disease": "Tea Leaf Blight",
+        "symptoms": "Brown, sunken lesions on young leaves.",
+        "treatment": "Apply copper-based fungicides at first sign.",
+        "best_practices": "Prune affected leaves, maintain proper humidity.",
+        "source": "India Tea Research Institute"
+    },
+    {
+        "disease": "Cotton Wilt",
+        "symptoms": "Sudden wilting of plants, yellowing leaves.",
+        "treatment": "Apply soil fungicides containing thiophanate-methyl.",
+        "best_practices": "Rotate crops with non-host plants.",
+        "source": "USDA Cotton Research Program"
+    }
+]
